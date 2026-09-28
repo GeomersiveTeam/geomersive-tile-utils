@@ -1,0 +1,6 @@
+{
+  "name": "Oslo sample area",
+  "zoom": 10,
+  "bbox": [10.60, 59.85, 10.90, 59.97],
+  "note": "Harmless sample input for the Geomersive tile utilities. Saved by CI as an artifact."
+}
