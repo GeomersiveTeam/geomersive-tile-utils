@@ -7,6 +7,6 @@
     "test": "node --test"
   },
   "devDependencies": {
-    "json5": "2.2.1"
+    "json5": "2.2.2"
   }
 }
