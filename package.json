@@ -1,0 +1,12 @@
+{
+  "name": "geomersive-tile-utils",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web Mercator tile helpers for the Geomersive viewer",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "json5": "2.2.1"
+  }
+}
