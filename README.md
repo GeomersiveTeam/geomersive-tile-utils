@@ -4,7 +4,7 @@ Small Web Mercator (XYZ) tile helpers used by the Geomersive viewer.
 
 ## Testing
 
-Requires Node.js 22 or later. No packages to install.
+Requires Node.js 22 or later. No packages to install. Run the command from the repository root.
 
 
 ```
